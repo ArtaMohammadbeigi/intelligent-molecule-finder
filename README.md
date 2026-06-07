@@ -30,7 +30,7 @@ The **Intelligent Molecule Finder** is a chemical informatics tool designed to b
 ## 📸 Screenshots
 | Search & Preview | 3D Visualization | Analysis Report |
 | :---: | :---: | :---: |
-| ![Preview](1.png) | ![3D View](2.png) | ![Report](3.png) |
+| ![Preview](1.png) | ![3D View](3.png) | ![Report](2.png) |
 
 ## Contact
 
